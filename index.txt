@@ -15,15 +15,14 @@ content
 
 
 
-Block-level elements
-heading: &lt;h1&gt;&lt;/h1&gt; through &lt;h6&gt;&lt;/h6&gt;
-horizontal rule (line): &lt;hr&gt;
-paragraph: &lt;p&gt;&lt;/p&gt;
-ordered list: &lt;ol&gt;&lt;/ol&gt;
-unordered list: &lt;ul&gt;&lt;/ul&gt;
-list item: &lt;li&gt;&lt;/li&gt;
-form: &lt;form&gt;&lt;/form&gt;
-div (container): &lt;div&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
 
 Inline elements
 line break: &lt;br&gt;
