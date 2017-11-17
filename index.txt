@@ -24,11 +24,10 @@ content
 
 
 
-Inline elements
-line break: &lt;br&gt;
-image: &lt;img src="URL"&gt;
-link (anchor): &lt;a href="URL"&gt;&lt;/a&gt;
-code: &lt;code&gt;&lt;/code&gt;
-bold: &lt;strong&gt;&lt;/strong&gt;
-italicized: &lt;em&gt;&lt;/em&gt;
-span (container): &lt;span&gt;&lt;/span&gt;
+
+
+
+
+
+
+
