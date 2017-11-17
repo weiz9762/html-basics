@@ -11,9 +11,9 @@ content
 
 
 
-Block vs. Inline
-block-level elements always starts on a new line and take up the full width available
-inline-elements do not start on a new line and only takes up as much width as necessary
+
+
+
 
 Block-level elements
 heading: &lt;h1&gt;&lt;/h1&gt; through &lt;h6&gt;&lt;/h6&gt;
