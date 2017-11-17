@@ -3,10 +3,10 @@ HTML Basics
 The "frontend" of a webpage consists of:
 HTML = HyperText Markup Language
 content
-CSS = Cascading Style Sheet
-style
-JS = Javascript
-interactivity
+
+
+
+
 
 Vocabulary
 elements have the following syntax: &lt;tag attribute="value"&gt;content&lt;/tag&gt;
